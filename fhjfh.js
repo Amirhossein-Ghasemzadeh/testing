@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 const fhjfh = () => {
-  const [state, setState] = useState(false);
+  const [state, setState] = useState(true);
   return <div>fhjfh</div>;
 };
 
